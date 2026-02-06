@@ -14,7 +14,7 @@
     "db:push": "drizzle-kit push",
     "db:pull": "drizzle-kit pull",
     "db:check": "drizzle-kit check",
-    "db:up": "drizzle-kit up",h
+    "db:up": "drizzle-kit up",
     "test": "export PLAYWRIGHT=True && pnpm exec playwright test"
   },
   "dependencies": {
